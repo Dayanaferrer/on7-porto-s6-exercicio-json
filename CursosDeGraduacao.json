@@ -1,0 +1,53 @@
+[
+    {
+        "curso": "Artes Visuais",
+        "tipo de graduacao": "Bacharelado | Licenciatura",
+        "duracao": "4 anos"
+    },
+    {
+        "curso": "Biomedicina",
+        "tipo de graduacao": "Bacharelado",
+        "duracao": "4 anos"
+    },
+    {
+        "curso": "Ciencias da Computacao",
+        "tipo de graduacao": "Bacharelado",
+        "duracao": "4 anos"
+    },
+    {
+        "curso": "Danca",
+        "tipo de graduacao": "Bacharelado | Licenciatura",
+        "duracao": "4 anos"
+    },
+    {
+        "curso": "Engenharia da Computacao",
+        "tipo de graduacao": "Bacharelado",
+        "duracao": "5 anos"
+    },
+    {
+        "curso": "Fisica",
+        "tipo de graduacao": "Bacharelado | Licenciatura",
+        "duracao": "4 anos"
+    },
+    {
+        "curso": "Geologia",
+        "tipo de graduacao": "Bacharelado",
+        "duracao": "5 anos"
+    },
+    {
+        "curso": "Jornalismo",
+        "tipo de graduacao": "Bacharelado",
+        "duracao": "4 anos"
+    },
+    {
+        "curso": "Pedagogia",
+        "tipo de graduacao": "Licenciatura",
+        "duracao": "4 anos"
+    },
+    {
+        "curso": "Teatro",
+        "tipo de graduacao": "Bacharelado | Licenciatura",
+        "duracao": "4 anos"
+    }
+
+]

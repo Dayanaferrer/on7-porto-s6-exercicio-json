@@ -1,0 +1,20 @@
+{
+  "name": "on7-porto-s6-exercicio-json",
+  "version": "1.0.0",
+  "description": "Criar arquivos diferentes .json, refletindo e estruturando os dados conforme a necessidade.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dayanaferrer/on7-porto-s6-exercicio-json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dayanaferrer/on7-porto-s6-exercicio-json/issues"
+  },
+  "homepage": "https://github.com/Dayanaferrer/on7-porto-s6-exercicio-json#readme"
+}

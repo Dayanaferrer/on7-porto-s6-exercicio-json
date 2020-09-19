@@ -1,0 +1,53 @@
+[
+    {
+        "culinaria": "Pirao",
+        "origem": "Angola e do Brasil",
+        "descricao": "Feito a base de farinha de mandioca"
+    },
+    {
+        "culinaria": "Estrogonofe",
+        "origem": "Russia",
+        "descricao": "Composto de cubos de carne bovina servidos num molho de creme de leite."
+    },
+    {
+        "culinaria": "Tapioca ou goma",
+        "origem": "Brasil",
+        "descricao":"E o prato final que parece uma panqueca, recebe os mais diferentes recheios e é feito na frigideira a partir da goma de mandioca."
+    },
+    {
+        "culinaria": "Cuscuz",
+        "origem": "Africa",
+        "descricao": "É feito com farinha de milho em flocos umedecida e cozida no vapor, e se assemelha a um bolo quando é cozido na cuscuzeira."
+    },
+    {
+        "culinaria": "Bolo",
+        "origem": "Egito Antigo",
+        "descricao": "Alimento à base de massa de farinha, geralmente doce e cozido no forno."
+    },
+    {
+        "culinaria": "Vatapa",
+        "origem": "Africa",
+        "descricao": "O seu preparo pode incluir pão molhado ou farinha de rosca, fubá, gengibre, pimenta-malagueta, amendoim, cravo, castanha de caju, leite desnatado, azeite de oliva, cebola, alho e tomate."
+    },
+    {
+        "culinaria": "Acaraje",
+        "origem": "Africa Ocidental",
+        "descricao": "Trata-se de um bolinho feito de massa de feijão-fradinho, cebola e sal, e frito em azeite de dendê."
+    },
+    {
+        "culinaria": "Baiao de Dois",
+        "origem": "Nordesde do Brasil",
+        "descricao": "Consiste num preparado de arroz e feijão, de preferência o feijão de corda."
+    },
+    {
+        "culinaria": "Brigadeiro",
+        "tipo de graduacao": "Brasil",
+        "duracao": " E feito de leite condensado, chocolate em pó e manteiga, e enrolado em granulado. "
+    },
+    {
+        "culinaria": "Lasanha",
+        "tipo de graduacao": "Italia",
+        "duracao": "E um prato feito com camadas alternadas de massa, queijo e molho de carne ou outros."
+    }
+
+]

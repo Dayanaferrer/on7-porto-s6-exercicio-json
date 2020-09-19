@@ -1,0 +1,68 @@
+[
+    {
+        "nome": "Perereca" ,
+        "nome cientifico":"Osteocephalus Taurinus",
+        "regiao": "Brasil",
+        "classe": "Anfíbio"
+    },
+    {
+        "nome": "Ema",
+        "nome cientifico":"Rhea americana",
+        "regiao": "Brasil, Argentina, Paraguai, Uruguai e no Sul da Bolívia",
+        "classe": "Ave"
+    },
+    {
+        "nome":"Peixe-boi-marinho" ,
+        "nome cientifico":"Trichechus manatus",
+        "regiao": "Desde a Flórida até a Costeira da America",
+        "classe": "Mamífero"
+    },
+    {
+        "nome": "Tamanduá-bandeira",
+        "nome cientifico":"Myrmecophaga tridactyla",
+        "regiao": "brasil, Colômbia, Paraguai e Panamá",
+        "classe": "Mamífero"
+    },
+    {
+        "nome":"Mico-leao-dourado",
+        "nome cientifico": "Leontopithecus rosalia",
+        "regiao": "Brasil",
+        "classe": "Mamífero"
+    },
+    {
+        "nome":"Onça-pintada" ,
+        "nome cientifico":"Panthera onca",
+        "regiao": "America do Sul",
+        "classe": "Mamífero"
+    },
+    {
+        "nome": "Baleia-azul",
+        "nome cientifico":"Balaenoptera musculus",
+        "regiao": "A baleia-azul está ausente apenas em alguns mares regionais, como o Mar Mediterrâneo, Mar de Okhotsk e Mar de Bering.",
+        "classe": "Mamífero"
+    },
+    {
+        "nome": "Tubarão-baleia" ,
+        "nome cientifico":"Rhincodon typus",
+        "regiao": "Mais frequentemente avistados no arquipélago de São Pedro e São Paulo em Pernambuco.",
+        "classe": "Peixe"
+    },
+    {
+        "nome":"Raia Pintada" ,
+        "nome cientifico":"Potamotrygon motoro",
+        "regiao": "Brasil (Bacia Amazônica) Aetobatus narinari",
+        "classe": "Peixe"
+    },
+    {
+        "nome": "Piranha-vermelha" ,
+        "nome cientifico":"Pygocentrus nattereri",
+        "regiao": "Amazonas, Paraná e São Francisco",
+        "classe": "Peixe"
+    },
+    {
+        "nome": "Cão" ,
+        "nome cientifico":"Canis lupus familiaris",
+        "regiao": "",
+        "classe": "Mamífero"
+    }
+]

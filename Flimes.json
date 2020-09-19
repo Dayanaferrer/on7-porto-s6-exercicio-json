@@ -1,0 +1,87 @@
+[
+    {
+        "filme": "As Branquelas",
+        "direcao": "Keenen Ivory Wayans",
+        "elenco": "Shawn Wayans, Marlon Wayans, Maitland ward",
+        "nacionalidade": "EUA",
+        "ano": 2004
+    },
+    {
+        "filme": "Vovo...Zona",
+        "direcao": "Raja Gosnell",
+        "elenco": "Martin Lawrence, Nia Long, Paul Giamatti",
+        "nacionalidade": "EUA",
+        "ano": 2000
+    },
+    {
+        "filme": "O Pequenino",
+        "direcao": "Marlon Wayans, Shawn Wayans, Kerry Washington",
+        "elenco": "Marlon",
+        "nacionalidade": "EUA, Canadá",
+        "ano": 2005
+    },
+    {
+        "filme": "Procurando Nemo",
+        "direcao": "Andrew Stanton, Lee Unkrich",
+        "elenco": "Albert Brooks, Ellen DeGeneres, Alexander Gould",
+        "nacionalidade": "EUA",
+        "ano": 2003
+    },
+    {
+        "filme": "O Espanta Tubarões",
+        "direcao": "Bibo Bergeron, Vicky Jenson, Rob Letterman",
+        "elenco": "Will Smith, Robert de Niro, Renée Zellweger",
+        "nacionalidade": "EUA",
+        "ano": 2004
+    },
+    {
+        "filme": "O Auto da Compadecida",
+        "direcao": "Guel Arraes",
+        "elenco": "Matheus Nachtergaele, Selton Mello, Denise Fraga",
+        "nacionalidade": "Brasil",
+        "ano": 2000
+    },
+    {
+        "filme": "Ó Paí, Ó",
+        "direcao": "Monique Gardenberg",
+        "elenco": "Lazaro Ramos, Dira Paes, Wagner Moura",
+        "nacionalidade": "Brasil",
+        "ano": 2007
+    },
+    {
+        "filme": "Pantera Negra",
+        "direcao": "Ryan Coogler",
+        "elenco": "Chadwick Boseman, Michael B. jordan, Lupita Nyong'o",
+        "nacionalidade": "EUA",
+        "ano": 2018
+    },
+    {
+        "filme": "Estrelas Além do Tempo",
+        "direcao": "Theodore Melfi",
+        "elenco": "Taraji P. Henson, Octavia Spencer, Janelle Monáe",
+        "nacionalidade": "EUA",
+        "ano": 2017
+    },
+    {
+        "filme": "Vingadores: Ultimato",
+        "direcao": "Joe Russo, Anthony Russo",
+        "elenco": "Robert Downey Jr., Chris Evans, Mark Ruffalo",
+        "nacionalidade": "EUA",
+        "ano": 2019
+    },
+     {
+        "filme": "Aquarius",
+        "direcao": "Kleber Mendonça Filho",
+        "elenco": ": Sônia Braga, Maeve Jinkings, Irandhir Santos",
+        "nacionalidade": "Brasil, França",
+        "ano": 2016
+    },
+    {
+        "filme": "Bacurau",
+        "direcao": "Kleber Mendonça Filho, juliano Dornelles",
+        "elenco": ": Sônia Braga, Udo Kier, Barbara Colen",
+        "nacionalidade": "Brasil, França",
+        "ano": 2019
+    }
+
+]

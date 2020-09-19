@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "concluido": true,
+        "lugar": "Praia de Genipabu, Rio Grande do Norte"
+    },
+    {
+        "id": 2,
+        "concluido": false,
+        "lugar": "Morro de Sao Paulo,Salvador, Bahia"
+    },
+    {
+        "id": 3,
+        "concluido": true,
+        "lugar": "Porto de Galinhas, Ipojuca, Pernambuco"
+    },
+    {
+        "id": 4,
+        "concluido": true,
+        "lugar": "Pelourinho, Salvador, Bahia"
+    },
+    {
+        "id": 5,
+        "concluido": false,
+        "lugar": "Fernando de Noronha, Pernambuco"
+    },
+    {
+        "id": 6,
+        "concluido": false,
+        "lugar": "Jericoacoara, Fortaleza, Ceara"
+    },
+    {
+        "id": 7,
+        "concluido": false,
+        "lugar": "Maragogi, Alagoas"
+    },
+    {
+        "id": 8,
+        "concluido": true,
+        "lugar": "Olinda, Pernambuco"
+    },
+    {
+        "id": 9,
+        "concluido": true,
+        "lugar": "Praia dos Carneiros, Tamandare, Pernambuco"
+    },
+    {
+        "id": 10,
+        "concluido": true,
+        "lugar": "Praia de Piranji do Norte, Natal"
+    },
+    {
+        "id": 11,
+        "concluido": true,
+        "lugar": "Farol da Barra, Salvador, Bahia"
+    }
+]

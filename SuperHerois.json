@@ -1,0 +1,53 @@
+[
+    {
+        "ator": "Cress Williams",
+        "personagem": "Raio Negro",
+        "superPoder": "Poderes elétricos"
+    },
+    {
+        "atriz": "Nafessa Williams",
+        "personagem": "Tormenta",
+        "superPoder": "Controla a densidade de seu corpo"
+    },
+    {
+        "ator": "Bruce Banner",
+        "personagem": "Hulk",
+        "superPoder": "Ultra força física"
+    },
+    {
+        "ator": "Chris Wiggins",
+        "personagem": "Thor",
+        "superPoder": "Possui uma enorme força e velocidade sobre-humanas"
+    },
+    {
+        "ator": "Grant Gustin",
+        "personagem": "Flash",
+        "superPoder": "Super Velocidade"
+    },
+    {
+        "atriz": "Kate Mara",
+        "personagem": "Mulher Invisivel",
+        "superPoder": "Invisibilidade"
+    },
+    {
+        "ator": "Chris Evans",
+        "personagem": "Tocha Humana",
+        "superPoder":" Envolver seu corpo em chamas"
+    },
+    {
+        "atriz": "Lynda Carter",
+        "personagem": "Mulher Maravilha",
+        "superPoder": "Super-força, Invulnerabilidade, Fator de Cura, Sentidos Aprimorados, Agilidade Sobre-Humana, Projeção e Manipulação de Energia,voo,super-velocidade,imortalidade."
+    },
+    {
+        "atriz": "Brie Larson",
+        "personagem": "Capitã Marvel",
+        "superPoder": "Força, agilidade e Capacidade de voar."
+    },
+    {
+        "ator": "Paul Rudd",
+        "personagem": "Homem Formiga",
+        "superPoder": "Alterar seu tamanho e tem força sobre-humana, e seu capacete permite controlar e se comunicar com insetos"
+    }
+
+]

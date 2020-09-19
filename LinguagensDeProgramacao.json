@@ -1,0 +1,53 @@
+[
+    {
+        "nome": "C",
+        "surgiu": 1972,
+        "criador": "Dennis Ritchie"
+    },
+    {
+        "nome": "Java",
+        "surgiu": 1995,
+        "criador": "James gosling | Sun Microsystems"
+    },
+    {
+        "nome": "Python",
+        "surgiu": 1992,
+        "criador": "Guido van Rossum"
+    },
+    {
+        "nome": "C++",
+        "surgiu": 1979,
+        "criador": "Bjarne Stroustrup"
+    },
+    {
+        "nome": "C Sharp",
+        "surgiu": 2000,
+        "criador": "Microsoft"
+    },
+    {
+        "nome": "JavaScript",
+        "surgiu": 1995,
+        "criador": "Brendan Eich"
+    },
+    {
+        "curso": "PHP",
+        "tipo de graduacao": "Rasmus Lerdorf",
+        "duracao": 1995
+    },
+    {
+        "nome": "R",
+        "surgiu": 1993,
+        "criador": "Guido van Rossum"
+    },
+    {
+        "nome": "SQL",
+        "surgiu": 1974,
+        "criador": "Donald D. Chamberlin | Raymond F. Boyce"
+    },
+    {
+        "nome": "Ruby",
+        "surgiu": 1995,
+        "criador": "Yukihiro Matsumoto"
+    }
+
+]

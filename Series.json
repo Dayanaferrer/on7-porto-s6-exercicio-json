@@ -1,0 +1,99 @@
+[
+    {
+        "serie": "Coisa Mais Linda",
+        "direcao": "Heather Roth, Guiliano Cedroni",
+        "elenco": "Maria Casadevall, Pathy Dejesus, Fernanda Vasconcellos",
+        "nacionalidade": "Brasil",
+        "desde": "2019",
+        "canal original":"Netflix"
+    },
+    {
+        "serie": "How To Get Away With Murder",
+        "direcao": "Peter Nowalk",
+        "elenco": "Viola Davis, Billy Brown (II), Jack Falahee",
+        "nacionalidade": "EUA",
+        "desde": "2014-2020",
+        "canal original":"ABC"
+    },
+    {
+        "serie": "Scandal",
+        "direcao": "Shonda Rhimes",
+        "elenco": "Kerry Washington, Scott Foley, Tony Goldwyn",
+        "nacionalidade": "EUA",
+        "desde": "2012-2018",
+        "canal original":"ABC"
+    },
+    {
+        "serie": "Chernobyl",
+        "direcao": "Craig Mazin",
+        "elenco": "Jared Harris, Stellan Skarsgård, Paul Ritter",
+        "nacionalidade": "EUA, Alemanha, Reino Unido",
+        "desde": "2019",
+        "canal original":"HBO"
+    },
+    {
+        "serie": "Black Lightning",
+        "direcao": "Greg Berlanti, Mara Brock Akil, Salim Akil",
+        "elenco": "Cress Williams, China Anne McClain, Nafessa Williams",
+        "nacionalidade": "EUA",
+        "desde": "2018",
+        "canal original": "CW"
+    },
+    {
+        "serie": "Self Made: Inspired by the Life of Madam C.J. Walker",
+        "direcao": "Nicole Asher",
+        "elenco": "Octavia Spencer, Tiffany Haddish, Carmen Ejogo",
+        "nacionalidade": "EUA",
+        "desde": "2020",
+        "canal original":"Netflix"
+    },
+    {
+        "serie": "Sense8",
+        "direcao": "Lilly Wachowski, Lana Wachowski, J. Michael Straczynski",
+        "elenco": "Doona Bae, Jamie Clayton, Tina Desai",
+        "nacionalidade": "EUA",
+        "desde": "2015-2018",
+        "canal original":"Netflix"
+    },
+    {
+        "serie": "Sex Education",
+        "direcao": "Laurie Nunn",
+        "elenco": "Asa Butterfield, Gillian Anderson, Emma Mackey",
+        "nacionalidade": "Reino Unido",
+        "desde": "2019",
+        "canal original": "Netflix"
+    },
+    {
+        "serie": "Upload",
+        "direcao": "Greg Daniels, Greg Daniels",
+        "elenco": "Robbie Amell, Andy Allo, Allegra Edwards",
+        "nacionalidade": "EUA",
+        "desde": "2020",
+        "canal original": "Amazon Prime"
+    },
+    {
+        "serie": "Orphan Black",
+        "direcao": "Graeme Manson, John Fawcett",
+        "elenco": "Tatiana Maslany, Dylan Bruce, Jordan Gavaris",
+        "nacionalidade": "EUA, Canadá",
+        "desde": "2013-2017",
+        "canal original":"BBC America"
+    },
+    {
+        "serie": "Breaking Bad",
+        "direcao": "Vince Gilligan",
+        "elenco": "Bryan Cranston, Anna Gunn, Aaron Paul",
+        "nacionalidade": "EUA",
+        "desde": "2008-2013",
+        "canal original":"AMC"
+    },
+    {
+        "serie": "Prison Break",
+        "direcao": "Paul Scheuring",
+        "elenco": "Wentworth Miller, Dominic Purcell, Sarah Wayne Callies",
+        "nacionalidade": "EUA",
+        "desde": "2005-2017",
+        "canal original":"FOX"
+    }
+
+]
