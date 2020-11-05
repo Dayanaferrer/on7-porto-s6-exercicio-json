@@ -1,2 +1,3 @@
-# on7-porto-s6-exercicio-json
+# Reprograma Semana 6 -Json
+
 Criar arquivos diferentes .json, refletindo e estruturando os dados conforme a necessidade.
